@@ -6,19 +6,22 @@ Bien que les exercices soient rédigés en JavaScript, l'idée principale est de
 
 ## Les raccourcis
 
-### LES RACCOURCIS CLAVIER C'EST LA VIE ! LES CLICS DROITS C'EST LA MORT !
+### _"Les raccourcis claviers devraient être le premier cours fondamental avant de commencer à coder."_
 
-#### Interdiction de faire clic droit pour :
+**– Boutzi**
 
+#### Si tu commences à coder, SVP interdis-toi de faire clic droit pour :
+
+- Tout sélectionner `CTRL + A`
 - Copier `CTRL + C`
 - Coller `CTRL + V`
 - Couper `CTRL + X`
 - Sauvegarder `CTRL + S`
 - Rechercher `CTRL + F`
-- Renommer `F2`
+- Renommer un fichier `F2`
 - Afficher l'inspecteur du navigateur `F12` ou `CTRL + MAJ + I`
 
-#### Essaye progressivement d'en apprendre d'autres quand ceux-là seront acquis (voir doc).
+#### Essaye progressivement d'en apprendre d'autres quand ceux-là seront acquis (voir la documentation).
 
 # Executer un code Javascript
 

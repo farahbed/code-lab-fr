@@ -10,7 +10,7 @@ Bien que les exercices soient rédigés en JavaScript, l'idée principale est de
 
 **– Boutzi**
 
-#### Si tu commences à coder, SVP interdis-toi de faire clic droit pour :
+#### Si tu commences à coder ou si ce n'est pas déjà acquis, oblige toi à faire ses actions via des raccourcis :
 
 - Tout sélectionner `CTRL + A`
 - Copier `CTRL + C`
@@ -21,7 +21,7 @@ Bien que les exercices soient rédigés en JavaScript, l'idée principale est de
 - Renommer un fichier `F2`
 - Afficher l'inspecteur du navigateur `F12` ou `CTRL + MAJ + I`
 
-#### Essaye progressivement d'en apprendre d'autres quand ceux-là seront acquis (voir la documentation).
+#### C'est un minimum, essaye progressivement d'en apprendre d'autres quand ceux-là seront acquis (voir la documentation).
 
 # Executer un code Javascript
 

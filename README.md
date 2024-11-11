@@ -32,6 +32,7 @@ Tu te déplace dans le dossier où se trouve ton script avec par exemple :
 
 ```bash
 cd exercices
+cd 1-débutant
 cd boucles
 ```
 

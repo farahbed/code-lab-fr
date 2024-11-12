@@ -67,8 +67,8 @@ const data = [
   },
 ];
 
-// Exercise 1: Find all countries in Asia and log their codes
+// Exercise 1: Filtrer tous les pays d'Asie et affichez leur code en console
 
-// Exercise 2: Create a new array with only the names of the countries
+// Exercise 2: Créer un nouveau tableau avec tous les noms de pays et l'afficher
 
-// Exercise 3: Find the country with the code "US" and log its name
+// Exercise 3: Trouver le nom du pays avec le code "US" et l'afficher
